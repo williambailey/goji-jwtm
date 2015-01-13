@@ -1,5 +1,5 @@
-goji_jwt
-========
+goji JWT middleware
+===================
 
 [goji framework](https://goji.io) JSON Web Token (JWT) middleware.
 
@@ -14,7 +14,7 @@ import (
 	"net/http"
 
 	"github.com/dgrijalva/jwt-go"
-	jwtm "github.com/williambailey/goji-jwt"
+	"github.com/williambailey/goji-jwtm"
 	"github.com/zenazn/goji"
 	"github.com/zenazn/goji/web"
 )

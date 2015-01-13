@@ -1,5 +1,5 @@
-// Package jwt provides goji middleware for JSON Web Tokens.
-package jwt
+// Package jwtm provides goji middleware for JSON Web Tokens.
+package jwtm
 
 import (
 	"net/http"
