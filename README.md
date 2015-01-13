@@ -3,6 +3,10 @@ goji JWT middleware
 
 [goji framework](https://goji.io) JSON Web Token (JWT) middleware.
 
+[![Build Status](https://travis-ci.org/williambailey/goji-jwtm.svg)](https://travis-ci.org/williambailey/goji-jwtm)
+
+[![goDoc](https://img.shields.io/badge/goDoc-available-blue.svg)](http://godoc.org/github.com/williambailey/goji-jwtm)
+
 example:
 
 ```go
